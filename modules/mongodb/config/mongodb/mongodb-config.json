@@ -1,0 +1,8 @@
+{
+    "mongodb": {
+      "server": "cluster0.t0t4l.mongodb.net",
+      "database": "myFirstDatabase?retryWrites=true&w=majority",
+      "user": "AdmVentaMinT",
+      "password": "Adm1Venta2MinT"
+    }
+  }
